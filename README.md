@@ -1,7 +1,7 @@
 # scs-pj1-team11
 Dylan, Melissa, Sree, Shengnan
 
-# Part 1 - Dlyan's Analysis
+# Part 1 - Dylan's Analysis
 # Code changes are available for Part 1 in pj1_team11.ipynb between the comments - # Test the number of countries in dataset and # Alcohol Consumption vs Life Expectancy
 
 # Analysis: 1 Country Summary
