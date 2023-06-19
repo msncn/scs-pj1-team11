@@ -4,7 +4,7 @@ Dylan, Melissa, Sree, Shengnan
 # Part 1 - Dlyan's Analysis
 # Code changes are available for Part 1 in pj1_team11.ipynb between the comments - # Test the number of countries in dataset and # Alcohol Consumption vs Life Expectancy
 
-Analysis: 1 Country Summary
+# Analysis: 1 Country Summary
 
 ## Life Expectancy
 Highest Life Expectancy for a country between 2000 - 2015 was Austria with the average age of 80.6870
@@ -23,7 +23,7 @@ Scatter plot indicates a strong relationship between alcohol consumption within 
 # Part 2a - Shengnan's Analysis
 # Code changes are available for Part 2a in pj1_team11.ipynb from the comments - # 2a. Global Yearly Summery Shengnan until # 2b. Melissa Start
 
-Analysis: 2a Yearly Summary
+# Analysis: 2a Yearly Summary
 
 ## Global change for Population, GDP, and Total Expenditure
 The data showed a similar trend which is an increase in population, GDP, and total expenditure
@@ -43,7 +43,7 @@ The data showed that GDP  may affect Total expenditure ; 0.21 suggests that 21% 
 # Part 3 - Sree's Analysis
 # Code changes are available for Part 3 in pj1_team11.ipynb between the comments - #3. Death, Vaccine and Schooling Summary - Sree Changes -- START# and ## Sree - Project 1 - END ##
 
-Analysis: 3 Death, Vaccination and Schooling summary
+# Analysis: 3 Death, Vaccination and Schooling summary
 
 ## Deaths
 Developed Nations have the lowest infant deaths, Under-five deaths, HIV/AIDS
