@@ -66,3 +66,6 @@ Developing Nations have less vaccine coverage for children for Polio and Diphthe
 
 ## Schooling
 Developed Nations have highest schooling in years with average of 15.84 years
+
+## Presentation Slides
+Link: https://docs.google.com/presentation/d/1dc_c-LBHkzD6CEWjcBUdfu2TzgXHkZF4/edit#slide=id.p26
