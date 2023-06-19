@@ -21,7 +21,7 @@ Found that no significant difference is seen between the global average life exp
 Scatter plot indicates a strong relationship between alcohol consumption within a nation and the nations average BMI. This indicates that alcohol plays a factor in weight gain for a nation or at leasts shows resource disparities, as those with no alcohol consumptions crowd the bottom of the BMI’s for nations.
 
 # Part 2a - Shengnan's Analysis
-# Code changes are available for Part 2a in pj1_team11.ipynb from the comments - # 2a. Global Yearly Summery Shengnan until # 2b. Melissa Start
+# Code changes are available for Part 2a in pj1_team11.ipynb from the comments - # 2a. Global Yearly Summery Shengnan until # 
 
 # Analysis: 2a Yearly Summary
 
@@ -39,6 +39,15 @@ The data showed that Population  may affect Total expenditure ; 0.22 suggests th
 ## GDP VS. Total Expenditure
 The output showed a mild positive correlation between GDP and Total Expenditure (r-value = 0.46, r-squared = 0.21)
 The data showed that GDP  may affect Total expenditure ; 0.21 suggests that 21% of the variability in Total Expenditure can be accounted for by GDP
+# 2b. Melissa's Analysis Groupby Year
+# Life Expectancy:
+- The average life expectancy of men across the world from 2000-2015 was approximately 67-69 years 
+- The average life expectancy of women across the world from 2000-2015 was approximately 67-68 years 
+-While the combined average life expectancy from 2000-2015 was approximately 67
+# GDP Per Capita:
+- The p-value for GDP per capita vs. The combined average life expectancy was 0.92
+- This means that the economic development of a country does not directly affect life expectancy
+Just because a country might have more economic growth does not mean the population will live longer and vice versa
 
 # Part 3 - Sree's Analysis
 # Code changes are available for Part 3 in pj1_team11.ipynb between the comments - #3. Death, Vaccine and Schooling Summary - Sree Changes -- START# and ## Sree - Project 1 - END ##
