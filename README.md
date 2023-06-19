@@ -39,7 +39,9 @@ The data showed that Population  may affect Total expenditure ; 0.22 suggests th
 ## GDP VS. Total Expenditure
 The output showed a mild positive correlation between GDP and Total Expenditure (r-value = 0.46, r-squared = 0.21)
 The data showed that GDP  may affect Total expenditure ; 0.21 suggests that 21% of the variability in Total Expenditure can be accounted for by GDP
-# 2b. Melissa's Analysis Yearly Summary
+
+
+# Part 2b. Melissa's Analysis Yearly Summary
 ## Life Expectancy vs. Year
 - The average life expectancy of men across the world from 2000-2015 was approximately 67-69 years 
 - The average life expectancy of women across the world from 2000-2015 was approximately 67-68 years 
